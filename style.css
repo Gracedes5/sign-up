@@ -51,10 +51,14 @@ button
     border: none;
     outline: none;
     text-shadow: 2px;
-}
+} 
 .Sign-Up
 {
     background-color: rgb(190, 4, 181) ;
-    box-shadow: 5px;
+    box-shadow: 20px;
 }
-
+.Log-in
+{
+    background-color: rgb(255, 107, 248) ;
+    box-shadow: 20px;
+}
